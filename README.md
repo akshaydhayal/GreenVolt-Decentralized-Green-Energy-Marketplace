@@ -16,7 +16,7 @@ Users can choose to charge their EVs with green energy (like solar or wind) and 
 
 ## Website Demo
 
-![Mission Dashboard](https://github.com/akshaydhayal/UEI-Green-Energy-Check/blob/main/Green-Energy-Management.png)
+![Mission Dashboard](https://github.com/akshaydhayal/UEI-Green-Energy-Check/blob/main/GreenVolt1.png)
 
 *Figure 1: Create Energy Producers and Charginf Points to interact with later*
 
