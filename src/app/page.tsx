@@ -12,6 +12,7 @@ import { Zap, PlusCircle, Battery, DollarSign, Leaf } from "lucide-react";
 
 
 import "@solana/wallet-adapter-react-ui/styles.css";
+import Image from "next/image";
 
 // const programID = new PublicKey("6CDhdAhZnzBSMk76Yq4cUnmMpZuFQp8fUeYuM3hG85n5");
 const programID = new PublicKey("7hY3HD36Q3ckMFzCw7unyqUWQcMGhU8Dc9JmeWCFtghq");
@@ -511,7 +512,15 @@ function App() {
     <div className="container mx-auto p-4 bg-gray-900 min-h-screen">
       <div className="flex justify-between px-4 items-center">
         <h1 className="text-3xl font-mono tracking-normal font-bold mb-2 flex items-center text-green-500">
-          <Battery className="mr-2" /> UEI Green Energy
+          {/* <Battery className="mr-2" />  */}
+          <Image 
+          src="/GreenvoltLogo.png"
+          alt="GreenVolt"
+          width={55} // Adjust to match your current icon size
+          height={55}
+          className="mr-2"
+        />
+          GreenVolt Energy Marketplace
         </h1>
         <WalletMultiButton />
       </div>
