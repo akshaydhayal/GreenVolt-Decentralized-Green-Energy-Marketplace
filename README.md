@@ -1,10 +1,11 @@
-# Green Energy Management
+# GreenVolt: Decentralized Green Energy Marketplace
 
 Live Project Link: [https://uei-green-energy-check.vercel.app/](https://uei-green-energy-check.vercel.app/)
 
 ## Description
+**GreenVolt** is a decentralized energy marketplace built on the Solana blockchain, designed to simplify how energy is created, distributed, and consumed — with a strong focus on sustainability. It enables energy producers to list and sell green or non-green energy, while charging station owners purchase this energy and offer electric vehicle (EV) charging services to consumers.
 
-This decentralized energy marketplace is built on the Solana blockchain, enabling users to manage and trade renewable and non-renewable energy. The platform allows energy producers to list available energy at a specified rate, while consumers can purchase energy and charge their electric vehicles (EVs) using energy from designated charging points. It incorporates Solana's smart contracts to ensure seamless and transparent transactions between producers, consumers, and charging stations. The focus is on promoting green energy, with a mechanism to differentiate between green and non-green energy, supporting the transition to renewable energy sources.
+Users can choose to charge their EVs with green energy (like solar or wind) and track transactions in real-time thanks to smart contracts deployed using Solana and Anchor. The platform promotes renewable energy adoption by differentiating between **green and non-green source**s and enables Renewable Energy Credit (REC) tracking for green energy producers.
 
 ## Features
 
