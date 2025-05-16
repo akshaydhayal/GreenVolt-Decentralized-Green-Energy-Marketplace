@@ -30,7 +30,7 @@ This decentralized energy marketplace is built on the Solana blockchain, enablin
 
 ## Video Demo:
 
-[https://www.loom.com/share/598e67c7c9374cda816deeb82681077e?sid=8655ffa0-2735-4bf8-b59a-d89b900511bc](https://www.loom.com/share/598e67c7c9374cda816deeb82681077e?sid=8655ffa0-2735-4bf8-b59a-d89b900511bc)
+[https://www.loom.com/share/598e67c7c9374cda816deeb82681077e?sid=d5d2aaa3-9e3f-44e6-a62c-c51f673daffb](https://www.loom.com/share/598e67c7c9374cda816deeb82681077e?sid=d5d2aaa3-9e3f-44e6-a62c-c51f673daffb)
 
 
 ## Technologies Used
