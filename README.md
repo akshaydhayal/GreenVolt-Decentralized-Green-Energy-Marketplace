@@ -1,4 +1,4 @@
-# UEI Green Energy Check
+# Green Energy Management
 
 Live Project Link: [https://uei-green-energy-check.vercel.app/](https://uei-green-energy-check.vercel.app/)
 
